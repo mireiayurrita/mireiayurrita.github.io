@@ -6,14 +6,23 @@ author_profile: true
 ---
 
 {% include base_path %}
-<h1>Teaching</h1>
+<h2>Teaching Assistant</h2>
 
 {% for data_col in site.data.teaching %}
 {% for entry in data_col.data %}
 <h3><a href="{{ entry.url }}">{{ entry.name }}</a></h3>
-<b>{{entry.time}} of the {{data_col.year}} semester</b> <br>
+<b>{{entry.time}}</b> <br>
 {{ entry.description }}
 {% endfor %}
 {% endfor %}
 
 <br>
+
+<h2>Guest Lectures</h2>
+
+{% for entry in site.data.guest %}
+<li>[<b>{{entry.time }}</b>] <i>{{ entry.title }}</i>
+    <a href="{{ entry.url }}">{{ entry.titlecourse }}</a>. {{ entry.note }}</li>
+{% endfor %}
+</ul>
+

@@ -1,4 +1,9 @@
 # Teaching
 
-- title: "My teaching duties example"
+- year: 2022-2023
+  data:
+  - name: CS4145 Crowd Computing
+    description: Crowd Computing is an emerging field that sits at the intersection of computer science and data science. Crowd computing studies how large groups of people can solve complex tasks that are currently beyond the capabilities of artificial intelligence algorithms, and that cannot be solved by a single person alone. It involves algorithmically engagement and coordination of people by means of Web-enabled platforms. These complex tasks are mainly focused on the creation, enrichment, and interpretation of data, making crowd computing a building block of data science.
+    url: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=61602
+    time: 2022-2023
 

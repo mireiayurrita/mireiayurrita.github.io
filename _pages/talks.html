@@ -5,14 +5,10 @@ permalink: /talks.html
 author_profile: true
 ---
 
-{% include base_path %}
-<h1>Recent Talks</h1>
-{% for data_col in site.data.talks %}
-<b>"{{ data_col.title }}"</b>
-    {% for entry in data_col.data %}
-	<li>{{ entry.name }} </li>
-	{% endfor %}
-	<br>
-{% endfor %}
-
 <br>
+
+{% for entry in site.data.talks %}
+<li>[<b>{{entry.time }}</b>] <i>{{ entry.title }}</i>
+    <a href="{{ entry.url }}">{{ entry.venue }}</a>. {{ entry.note }}</li>
+{% endfor %}
+</ul>

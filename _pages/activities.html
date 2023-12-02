@@ -5,11 +5,22 @@ permalink: /activities.html
 author_profile: true
 ---
 
-<h1>Community Services</h1>
-<!-- I actively search the research communities. The workload often exceeds my limit so lately I have started to say more and more 'no' to invitations. 
--->
+<h2>Community Service</h2>
+
 
 {% for data_col in site.data.activities %}
+	<h3>{{ data_col.role }}</h3>
+	{% for entry in data_col.data %}
+		<li>{{ entry.name }} </li>
+	{% endfor %}
+{% endfor %}
+
+<br>
+
+<h2>Side Projects</h2>
+
+
+{% for data_col in site.data.sideprojects %}
 	<h3>{{ data_col.role }}</h3>
 	{% for entry in data_col.data %}
 		<li>{{ entry.name }} </li>
