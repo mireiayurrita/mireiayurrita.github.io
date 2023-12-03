@@ -7,22 +7,27 @@ author_profile: true
 
 <h2>Community Service</h2>
 
-
-{% for data_col in site.data.activities %}
-	<h3>{{ data_col.role }}</h3>
-	{% for entry in data_col.data %}
-		<li>{{ entry.name }} </li>
-	{% endfor %}
+<b>Program committee</b>
+{% for entry in site.data.programcommittee %}
+<li>{{entry.venue }}. {{ entry.year }}
 {% endfor %}
+</ul>
+
+<br>
+<br>
+
+<b>Reviewer</b>
+{% for entry in site.data.reviewer %}
+<li>{{entry.venue }}. {{ entry.year }}
+{% endfor %}
+</ul>
 
 <br>
 
 <h2>Side Projects</h2>
 
 
-{% for data_col in site.data.sideprojects %}
-	<h3>{{ data_col.role }}</h3>
-	{% for entry in data_col.data %}
-		<li>{{ entry.name }} </li>
-	{% endfor %}
+{% for entry in site.data.sideprojects %}
+<li>[<b>{{entry.year }}</b>] <b><a href="{{ entry.url }}">{{ entry.title }}</b></a> with {{ entry.coauthors }}.  
 {% endfor %}
+</ul>

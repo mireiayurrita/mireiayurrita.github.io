@@ -1,0 +1,66 @@
+# Publications
+
+- id: balayn2023
+  authors: Agathe Balayn, <b>Mireia Yurrita</b>, Jie Yang, Ujwal Gadiraju
+  url: https://doi.org/10.1145/3600211.3604674 
+  venue: AIES 2023. Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society
+  year: 2023
+  type: "conference paper"
+  highlight: Best Paper Award
+  title: "🏆\"Fairness Toolkits, A Checkbox Culture?\" On the Factors that Fragment Developer Practices in Handling Algorithmic Harms🏆"
+
+- id: yurrita2023_2
+  authors: <b>Mireia Yurrita</b>, Agathe Balayn,  Ujwal Gadiraju
+  url: https://arxiv.org/abs/2305.00739 
+  venue: HCXAI 2023. In Proceedings of the HCXAI2023 Workshop at CHI2023.
+  year: 2023
+  type: "workshop paper"
+  highlight: 
+  title: "Generating Process-Centric Explanations to Enable Contestability in Algorithmic Decision-Making: Challenges and Opportunities"
+
+- id: yurrita2023
+  authors: <b>Mireia Yurrita</b>, Tim Draws, Agathe Balayn,  Dave Murray-Rust, Nava Tintarev, Alessandro Bozzon
+  url: https://doi.org/10.1145/3544548.3581161
+  venue: CHI 2023. Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems
+  year: 2023
+  type: "conference paper"
+  highlight: Best Paper Award
+  title: "🏆 Disentangling Fairness Perceptions in Algorithmic Decision-Making: the Effects of Explanations, Human Oversight, and Contestability 🏆"
+
+- id: tocchetti2023
+  authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, <b>Mireia Yurrita</b>, Philip Lippmann, Marco Brambilla, Jie Yang
+  url: https://arxiv.org/abs/2210.08906
+  venue: arXiv
+  year: 2023
+  type: "journal paper"
+  highlight:
+  title: "A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities"
+
+- id: yurrita2022
+  authors: <b>Mireia Yurrita</b>, Dave Murray-Rust, Agathe Balayn, Alessandro Bozzon
+  url: https://dl.acm.org/doi/abs/10.1145/3531146.3533118
+  venue: FAccT 2022. 2022 ACM Conference on Fairness, Accountability, and Transparency
+  year: 2022
+  type: "conference paper"
+  highlight:
+  title: "Towards a multi-stakeholder value-based assessment framework for algorithmic systems"
+
+- id: yurrita2021_2
+  authors: <b>Mireia Yurrita</b>, Arnaud Grignard, Luis Alonso, Kent Larson
+  url: https://link.springer.com/chapter/10.1007/978-3-030-94548-0_10 
+  venue: MABS 2021. Multi-Agent-Based Simulation XXII Workshop at AAMAS2021
+  year: 2021
+  type: "workshop paper"
+  highlight:
+  title: "Real-Time Inference of Urban Metrics Applying Machine Learning to an Agent-Based Model Coupling Mobility Mode and Housing Choice"
+
+- id: yurrita2021
+  authors: <b>Mireia Yurrita</b>, Arnaud Grignard, Luis Alonso, Yanh Zhan, Cristian Jara-Figueroa, Markus Elkatsha, Kent Larson
+  url: https://link.springer.com/chapter/10.1007/978-3-030-80126-7_66
+  venue: Intelligent Computing. Proceedings of the 2021 Computing Conference, Volume 2
+  year: 2021
+  type: "conference paper"
+  highlight:
+  title: "Dynamic urban planning: an agent-based model coupling mobility mode and housing choice. Use case Kendall square"
+
+

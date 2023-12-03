@@ -21,8 +21,17 @@ author_profile: true
 <h2>Guest Lectures</h2>
 
 {% for entry in site.data.guest %}
-<li>[<b>{{entry.time }}</b>] <i>{{ entry.title }}</i>
-    <a href="{{ entry.url }}">{{ entry.titlecourse }}</a>. {{ entry.note }}</li>
+<li><b>[{{entry.time }}] <a href="{{ entry.url }}">{{ entry.titlecourse }}</a>.</b> <i>{{ entry.title }}</i>
+     {{ entry.note }}</li>
+{% endfor %}
+</ul>
+
+<br>
+<h2 id="MSc_supervision">Master Theses</h2>
+
+{% for entry in site.data.supervision %}
+<li><b>[{{ entry.year }}]</b>  
+<b><a href="{{ entry.url }}">{{ entry.title }}</b></a>. <i>{{ entry.student }}</i>. {{ entry.note }}</li>
 {% endfor %}
 </ul>
 

@@ -7,8 +7,20 @@ author_profile: true
 
 <br>
 
+<!---
 {% for entry in site.data.talks %}
 <li>[<b>{{entry.time }}</b>] <i>{{ entry.title }}</i>
     <a href="{{ entry.url }}">{{ entry.venue }}</a>. {{ entry.note }}</li>
 {% endfor %}
-</ul>
+</ul>-->
+
+{% include base_path %}
+{% for data_col in site.data.talks %}
+<b>{{ data_col.topic }}</b>
+    {% for entry in data_col.data %}
+	<li>{{ entry.name }} </li>
+	{% endfor %}
+	<br>
+{% endfor %}
+
+<br>

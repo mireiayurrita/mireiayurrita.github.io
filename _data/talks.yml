@@ -1,74 +1,29 @@
 # Talks
 
-  - title: "Identifying Decision Subjects' Needs for Contestability."
-    time: 26/10/2023
-    venue: Building Contestable Systems Symposium 
-    url: 
-    note:
+  - topic: Fairness Perceptions, Contestability and XAI
+    data:
+    - name: <a href="">Building Contestable Systems Symposium</a>, October 2023
+    - name: <a href="https://www.media.mit.edu/groups/city-science/overview/">City Science Team. MIT Media Lab</a>, June 2023
+    - name: <a href="https://hcxai.jimdosite.com/">Human-Centered XAI Workshop at CHI 2023</a>, April 2023
+    - name: <a href=" https://programs.sigchi.org/chi/2023/program/content/96230">CHI 2023</a>, April 2023
 
-  - title: "Designing Contestable AI Systems. Identifying Procedural and Information Needs."
-    time: 09/06/2023
-    venue: City Science Team. MIT Media Lab 
-    url: https://www.media.mit.edu/groups/city-science/overview/
-    note:
-
-  - title: "Generating Process-Centric Explanations to Enable Contestability in Algorithmic Decision-Making. Challenges and Opportunities."
-    time: 28/04/2023
-    venue: Human-Centered XAI Workshop at CHI 2023 
-    url: https://hcxai.jimdosite.com/
-    note:
-
-  - title: "Disentangling Fairness Perceptions in Algorithmic Decision-Making. The Effects of Explanations, Human Oversight, and Contestability."
-    time: 24/04/2023
-    venue: CHI 2023 
-    url: https://programs.sigchi.org/chi/2023/program/content/96230
-    note:
-
-  - title: "Design and Engineering Methods for Principled Development of Data, Models, and Behaviours."
-    time: 24/01/2023
-    venue: DCODE Winter School  
-    url: https://dcode-network.eu/schools/design-for-sustainable-socio-economic-models/
-    note:
-
-  - title: "Value-based assessment in AI."
-    time: 23/11/2022
-    venue: Workshop on Values in AI systems. Design for Values Institute and Digital Ethics Center  
-    url: https://www.tudelft.nl/en/events/2022/tbm/workshop-on-values-and-value-assessment-in-ai
-    note:
+  - topic: Value-based Assessment of Algorithmic Systems
+    data:
+    - name: <a href="https://www.tudelft.nl/en/events/2022/tbm/workshop-on-values-and-value-assessment-in-ai">Workshop on Values in AI systems. Design for Values Institute and Digital Ethics Center</a>, November 2022
+    - name: <a href="https://www.tudelft.nl/en/tpm/">DPS Meeting. Faculty of Technology, Policy, and Management. TU Delft</a>, November 2022
+    - name: <a href="https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1712190&dswid=-2507">DRS Bilbao</a>, June 2022
+    - name: <a href="https://dl.acm.org/doi/10.1145/3531146.3533118">FAccT2022</a>, June  2022
   
-  - title: "Towards a multi-stakeholder value-based assessment framework for algorithmic systems."
-    time: 03/11/2022
-    venue: DPS Meeting. Faculty of Technology, Policy, and Management. TU Delft.  
-    url: https://www.tudelft.nl/en/tpm/
-    note:
+  - topic: Fostering Effective Human-AI Collaboration
+    data: 
+    - name: <a href="https://dl.designresearchsociety.org/drs-conference-papers/drs2022/conversations/8/">DRS Bilbao</a>, June 2022
+    - name: <a href="https://wearebit.com/">BIT Prototyping Studio</a>, April 2022
+    - name: <a href="https://www.wis.ewi.tudelft.nl/">Kappa Meeting. Web Information Systems. TU Delft</a>, February 2022
 
-  - title: "Prototyping tensions: How to talk to your colleagues about AI"
-    time: 01/07/2022
-    venue: DRS Bilbao   
-    url: https://dl.designresearchsociety.org/drs-conference-papers/drs2022/conversations/8/  
-    note:
-
-  - title: "Plumbing the Machine Learning Pipeline: how Constraints affect our Good Intentions"
-    time: 29/06/2022
-    venue: DRS Bilbao   
-    url: https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1712190&dswid=-2507 
-    note:
-
-  - title: "Towards a multi-stakeholder value-based assessment framework for algorithmic systems."
-    time: 22/06/2022
-    venue: FAccT2022   
-    url: https://dl.acm.org/doi/10.1145/3531146.3533118  
-    note:
-
-  - title: "Mind the Gap: Designing for Trust (or Mistrust) in Clinical AI-embedded Systems."
-    time: 04/04/2022
-    venue: BIT Prototyping Studio   
-    url:  https://wearebit.com/
-    note:
-
-  - title: "Fostering Effective Human-AI Collaboration. Challenges and Opportunities."
-    time: 28/02/2022
-    venue: Kappa Meeting. Web Information Systems. TU Delft.  
-    url:  https://www.wis.ewi.tudelft.nl/ 
-    note:
+  
+  - topic: Thesis Dissemination
+    data:
+    - name: <a href="https://dcode-network.eu/schools/design-for-sustainable-socio-economic-models/">DCODE Winter School</a>, January 2023
+  
+ 
 
