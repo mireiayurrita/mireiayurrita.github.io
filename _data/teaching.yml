@@ -1,5 +1,13 @@
 # Teaching
 
+- year: 2023-2024
+  data:
+  - name: IOB4-T3 Machine Learning for Design
+    description: Machine learning (ML) is a computational approach that aims at “giving computers the ability to learn without being explicitly programmed” (A. Samuel, 1959). To meaningfully envision and design future iPSSs that is beneficial and useful to people and society, designers must engage with the details of how ML systems “see” the world, “reason” about it, and interact with it; experience the quirks, biases, and failures of ML technology; contend with how agency, initiative, trust, and explainability mediate the interaction between human and iPSSs; and understand how functionalities enabled by ML can be designed in iPSSs. Students in this course will gain practical experience with ML technology and learn how to think critically of what ML systems can do, and how they could and should be integrated into iPSSs.
+    url: https://studiegids.tudelft.nl/a101_displayCourse.do?course_id=66427 
+    time: 2023-2024
+
+
 - year: 2022-2023
   data:
   - name: CS4145 Crowd Computing

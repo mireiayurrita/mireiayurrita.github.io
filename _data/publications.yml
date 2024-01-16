@@ -9,15 +9,6 @@
   highlight: Best Paper Award
   title: "🏆\"Fairness Toolkits, A Checkbox Culture?\" On the Factors that Fragment Developer Practices in Handling Algorithmic Harms🏆"
 
-- id: yurrita2023_2
-  authors: <b>Mireia Yurrita</b>, Agathe Balayn,  Ujwal Gadiraju
-  url: https://arxiv.org/abs/2305.00739 
-  venue: HCXAI 2023. In Proceedings of the HCXAI2023 Workshop at CHI2023.
-  year: 2023
-  type: "workshop paper"
-  highlight: 
-  title: "Generating Process-Centric Explanations to Enable Contestability in Algorithmic Decision-Making: Challenges and Opportunities"
-
 - id: yurrita2023
   authors: <b>Mireia Yurrita</b>, Tim Draws, Agathe Balayn,  Dave Murray-Rust, Nava Tintarev, Alessandro Bozzon
   url: https://doi.org/10.1145/3544548.3581161
@@ -26,6 +17,15 @@
   type: "conference paper"
   highlight: Best Paper Award
   title: "🏆 Disentangling Fairness Perceptions in Algorithmic Decision-Making: the Effects of Explanations, Human Oversight, and Contestability 🏆"
+
+- id: yurrita2023_2
+  authors: <b>Mireia Yurrita</b>, Agathe Balayn,  Ujwal Gadiraju
+  url: https://arxiv.org/abs/2305.00739 
+  venue: HCXAI 2023. In Proceedings of the HCXAI2023 Workshop at CHI2023.
+  year: 2023
+  type: "workshop paper"
+  highlight: 
+  title: "Generating Process-Centric Explanations to Enable Contestability in Algorithmic Decision-Making: Challenges and Opportunities"
 
 - id: tocchetti2023
   authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, <b>Mireia Yurrita</b>, Philip Lippmann, Marco Brambilla, Jie Yang
