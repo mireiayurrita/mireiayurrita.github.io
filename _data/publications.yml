@@ -1,5 +1,32 @@
 # Publications
 
+- id: degachi2024
+  authors: Chadha Degachi, Siddharth Mehrotra, <b>Mireia Yurrita</b>, Evangelos Niforatos, Myrthe Lotte Tielman
+  url: https://doi.org/10.1145/3613905.3650825    
+  venue: CHI EA 2024. Extended Abstracts of the CHI Conference on Human Factors in Computing Systems.
+  year: 2024
+  type: "conference paper"
+  highlight: 
+  title: "Practising Appropriate Trust in Human-Centred AI Design"
+
+- id: balayn2024
+  authors: Agathe Balayn, <b>Mireia Yurrita</b>, Fanny Rancourt, Fabio Casati, Ujwal Gadiraju
+  url:  https://chi-trew.github.io/papers/2024/CHI_TREW_2024_Paper_9.pdf 
+  venue: TREW 2024. In Proceedings of the TREW2024 Workshop at CHI 2024.
+  year: 2024
+  type: "workshop paper"
+  highlight: 
+  title: "An Empirical Exploration of Trust Dynamics in LLM Supply Chains"
+
+- id: alfrink2024
+  authors: Kars Alfrink, Ianus Keller, <b>Mireia Yurrita</b>, Denis Bulygin, Gerd Kortuem, Neelke Doorn
+  url:  https://research.tudelft.nl/en/publications/envisioning-contestability-loops-evaluating-the-agonistic-arena-a 
+  venue: She Jin. The Journal of Design, Economics, and Innovation.
+  year: 2024
+  type: "journal paper"
+  highlight: 
+  title: "Envisioning Contestability Loops: Evaluating the Agonistic Arena as a Generative Metaphor for Public AI"
+
 - id: balayn2023
   authors: Agathe Balayn, <b>Mireia Yurrita</b>, Jie Yang, Ujwal Gadiraju
   url: https://doi.org/10.1145/3600211.3604674 
@@ -30,7 +57,7 @@
 - id: tocchetti2023
   authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, <b>Mireia Yurrita</b>, Philip Lippmann, Marco Brambilla, Jie Yang
   url: https://arxiv.org/abs/2210.08906
-  venue: arXiv
+  venue: Under review in ACM Computing Surveys.
   year: 2023
   type: "journal paper"
   highlight:
