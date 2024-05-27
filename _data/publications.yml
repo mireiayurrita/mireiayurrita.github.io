@@ -1,5 +1,14 @@
 # Publications
 
+- id: tocchetti2024
+  authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, <b>Mireia Yurrita</b>, Philip Lippmann, Marco Brambilla, Jie Yang
+  url: https://dl.acm.org/doi/10.1145/3665926 
+  venue: ACM Computing Surveys [Just Accepted]
+  year: 2024
+  type: "journal paper"
+  highlight:
+  title: "A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities"
+
 - id: degachi2024
   authors: Chadha Degachi, Siddharth Mehrotra, <b>Mireia Yurrita</b>, Evangelos Niforatos, Myrthe Lotte Tielman
   url: https://doi.org/10.1145/3613905.3650825    
@@ -53,15 +62,6 @@
   type: "workshop paper"
   highlight: 
   title: "Generating Process-Centric Explanations to Enable Contestability in Algorithmic Decision-Making: Challenges and Opportunities"
-
-- id: tocchetti2023
-  authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, <b>Mireia Yurrita</b>, Philip Lippmann, Marco Brambilla, Jie Yang
-  url: https://arxiv.org/abs/2210.08906
-  venue: ACM Computing Surveys [Just Accepted]
-  year: 2023
-  type: "journal paper"
-  highlight:
-  title: "A.I. Robustness: a Human-Centered Perspective on Technological Challenges and Opportunities"
 
 - id: yurrita2022
   authors: <b>Mireia Yurrita</b>, Dave Murray-Rust, Agathe Balayn, Alessandro Bozzon
