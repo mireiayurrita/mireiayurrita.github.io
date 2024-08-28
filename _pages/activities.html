@@ -28,7 +28,7 @@ author_profile: true
 
 
 {% for entry in site.data.workshops %}
-<li>[<b>{{entry.year }}</b>] <b><a href="{{ entry.url }}">{{ entry.title }}</b></a> <br> At{{ entry.conference }} <br> With {{ entry.coauthors }}.  
+<li>[<b>{{entry.year }}</b>] <b><a href="{{ entry.url }}">{{ entry.title }}.</b></a>  At <i>{{ entry.conference }} </i> <br> {{ entry.coauthors }}.  
 {% endfor %}
 </ul>
 
