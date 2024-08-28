@@ -5,6 +5,17 @@ permalink: /activities/
 author_profile: true
 ---
 
+
+<h2>Workshop Organization</h2>
+
+
+{% for entry in site.data.workshops %}
+<li>[<b>{{entry.year }}</b>] <b><a href="{{ entry.url }}">{{ entry.title }}.</b></a>  At <i>{{ entry.conference }} </i> <br> <br> {{ entry.coauthors }}. <br>  
+{% endfor %}
+</ul>
+
+<br>
+
 <h2>Community Service</h2>
 
 <b>Program committee</b>
@@ -24,15 +35,6 @@ author_profile: true
 
 <br>
 
-<h2>Workshop Organization</h2>
-
-
-{% for entry in site.data.workshops %}
-<li>[<b>{{entry.year }}</b>] <b><a href="{{ entry.url }}">{{ entry.title }}.</b></a>  At <i>{{ entry.conference }} </i> <br> {{ entry.coauthors }}.  
-{% endfor %}
-</ul>
-
-<br>
 
 <h2>Side Projects</h2>
 
