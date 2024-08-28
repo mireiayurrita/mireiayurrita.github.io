@@ -6,16 +6,6 @@ author_profile: true
 ---
 
 
-<h2>Workshop Organization</h2>
-
-
-{% for entry in site.data.workshops %}
-<li>[<b>{{entry.year }}</b>] <b><a href="{{ entry.url }}">{{ entry.title }}.</b></a>  At <i>{{ entry.conference }} </i> <br> <br> {{ entry.coauthors }}. <br>  
-{% endfor %}
-</ul>
-
-<br>
-
 <h2>Community Service</h2>
 
 <b>Program committee</b>
@@ -30,6 +20,16 @@ author_profile: true
 <b>Reviewer</b>
 {% for entry in site.data.reviewer %}
 <li>{{entry.venue }}. {{ entry.year }}
+{% endfor %}
+</ul>
+
+<br>
+
+<h2>Workshop Organization</h2>
+
+
+{% for entry in site.data.workshops %}
+<li>[<b>{{entry.year }}</b>] <b><a href="{{ entry.url }}">{{ entry.title }}.</b></a>  At <i>{{ entry.conference }} </i> <br> <br> {{ entry.coauthors }}. <br>  <br>
 {% endfor %}
 </ul>
 
