@@ -1,8 +1,14 @@
 # Teaching
 
-- year: 2022-2023
+- year: 2023
   student: Miny Rajiv
   url: https://repository.tudelft.nl/islandora/object/uuid%3Adb538fa9-392d-40ec-b1b3-16ee0827d334 
   title: Elucidating a ‘black-box’ transcends explaining the algorithm
   note: This thesis has been turned into a full paper and is under review.
+
+- year: 2022
+  student: Seowoo Nam
+  url: 
+  title: A design toolkit for multi-stakeholder systematic negotiation of values in algorithmic systems
+  note: Research elective
 

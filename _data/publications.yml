@@ -1,5 +1,32 @@
 # Publications
 
+id: yurrita2025_2
+  authors: <b>Mireia Yurrita</b>, Himanshu Verma, Agathe Balayn, Kars Alfrink, Ujwal Gadiraju, Alessandro Bozzon 
+  url:  
+  venue: CSCW 2025. Proceedings of the ACM on Human-Computer Interaction CSCW ( (coming soon).
+  year: 2025
+  type: "journal paper"
+  highlight:
+  title: "Identifying Algorithmic Decision Subjects' Needs for Meaningful Contestability"
+
+- id: yurrita2025
+  authors: <b>Mireia Yurrita</b>, Himanshu Verma, Agathe Balayn, Ujwal Gadiraju, Sylvia C. Pont, Alessandro Bozzon 
+  url:  
+  venue: CHI 2025. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (coming soon).
+  year: 2025
+  type: "conference paper"
+  highlight:
+  title: "Towards Effective Human Intervention in Algorithmic Decision-Making: the Effect of Decision-Makers' Configuration on Decision-Subjects' Fairness Perceptions"
+
+- id: balayn2025
+  authors: Agathe Balayn, <b>Mireia Yurrita</b>, Fanny Rancourt, Fabio Casati, Ujwal Gadiraju 
+  url:  
+  venue: CHI 2025. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (coming soon).
+  year: 2025
+  type: "conference paper"
+  highlight:
+  title: "Trust Dynamics in the LLM Supply Chain: An Empirical Exploration to Foster Trustworthy LLM Production & Use"
+
 - id: tocchetti2024
   authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, <b>Mireia Yurrita</b>, Philip Lippmann, Marco Brambilla, Jie Yang
   url: https://dl.acm.org/doi/10.1145/3665926 
