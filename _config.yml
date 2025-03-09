@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mireia Yurrita"
 title_separator          : "-"
 name                     : &name "Mireia Yurrita"
-description              : &description "PhD candidate"
+description              : &description "Postdoctoral Researcher"
 url                      : https://mireiayurrita.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Mireia Yurrita"
   avatar           : "profilephoto2.JPG"
-  bio              : "PhD candidate"
-  location         : "TU Delft, NL"
+  bio              : "Postdoctoral Researcher"
+  location         : "Netherlands, NL"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=_aDxjBIAAAAJ&hl=en"
