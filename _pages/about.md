@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Mireia, an HCI Researcher interested in developing methods for supporting the design of AI systems that work and grow alongside humans.
+I'm Mireia, a Human-Computer Interaction Researcher interested in developing methods for supporting the design of AI systems that work and grow alongside humans.
 
 I am currently a **Postdoctoral Researcher at Utrecht University** in the [Responsible AI](https://rai-uu.github.io/) team. I am also part of the [Hybrid Intelligence Centre](https://www.hybrid-intelligence-centre.nl/), where I work on new methodologies for Hybrid Intelligence teams, where humans and AI cooperate to achieve shared goals. More specifically, I am designing metrics and processes to measure and assess collaboration between humans and AI.   
 
