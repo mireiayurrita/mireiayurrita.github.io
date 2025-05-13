@@ -12,7 +12,7 @@
 - id: yurrita2025
   authors: <b>Mireia Yurrita</b>, Himanshu Verma, Agathe Balayn, Ujwal Gadiraju, Sylvia C. Pont, Alessandro Bozzon 
   url: https://doi.org/10.1145/3706598.3713145 
-  venue: CHI 2025. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (coming soon)
+  venue: CHI 2025. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems
   year: 2025
   type: "conference paper"
   highlight:
@@ -21,11 +21,11 @@
 - id: balayn2025
   authors: Agathe Balayn, <b>Mireia Yurrita</b>, Fanny Rancourt, Fabio Casati, Ujwal Gadiraju 
   url:  https://doi.org/10.1145/3706598.3713787 
-  venue: CHI 2025. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems (coming soon)
+  venue: CHI 2025. Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems
   year: 2025
   type: "conference paper"
   highlight:
-  title: "Trust Dynamics in the LLM Supply Chain: An Empirical Exploration to Foster Trustworthy LLM Production & Use"
+  title: "🥈 Trust Dynamics in the LLM Supply Chain: An Empirical Exploration to Foster Trustworthy LLM Production & Use🥈 "
 
 - id: tocchetti2024
   authors: Andrea Tocchetti, Lorenzo Corti, Agathe Balayn, <b>Mireia Yurrita</b>, Philip Lippmann, Marco Brambilla, Jie Yang
