@@ -6,17 +6,29 @@
 - venue: The ACM Conference on Computer Supported Cooperative Work (CSCW)
   year: 2023, 2024
 
-- venue: The AAAI / ACM Conference on Artificial Intelligence, Ethics, and Society (AIES)
-  year: 2024
-
-- venue: The ACM Conference on Intelligent User Interfaces (IUI)
-  year: 2023
+- venue: The Symposium on Human-Computer Interaction for Work (CHIWORK)
+  year: 2025
 
 - venue: International Journal of Human-Computer Interaction
   year: 2023, 2024
 
+- venue: International Journal of Human-Computer Studies
+  year: 2025
+
 - venue: INTERACT IFIP TC13 International Conference on Human-Computer Interaction
   year: 2025
 
+- venue: IEEE Internet Computing
+  year: 2025
+
+- venue: Transactions on Affective Computing
+  year: 2025
+
+- venue: The AAAI / ACM Conference on Artificial Intelligence, Ethics, and Society (AIES)
+  year: 2024
+
 - venue: European Workshop on Algorithmic Fairness (EWAF)
   year: 2024
+
+- venue: The ACM Conference on Intelligent User Interfaces (IUI)
+  year: 2023
